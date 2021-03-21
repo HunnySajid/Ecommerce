@@ -1,5 +1,5 @@
 {
-  "name": "Ecommerce Social Platform",
+  "name": "Ecommerce",
   "version": "1.0.0",
   "description": "A b2b market place backend",
   "main": "index.js",
@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HunnySajid/Biopaar-backend.git"
+    "url": "git+https://github.com/HunnySajid/Ecommerce.git"
   },
   "author": "Hunain bin Sajid (https://github.com/HunnySajid)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HunnySajid/Biopaar-backend/issues"
+    "url": "https://github.com/HunnySajid/Ecommerce/issues"
   },
-  "homepage": "https://github.com/HunnySajid/Biopaar-backend#readme",
+  "homepage": "https://github.com/HunnySajid/Ecommerce#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.12.1",
+    "mongoose-slug-generator": "^1.0.4",
     "passport": "^0.4.1",
     "path": "^0.12.7"
   },
